@@ -1,6 +1,6 @@
 # Eclipse ADHD Blocker
 
-# Privacy Policy for Eclipse ADHD Blocker
+**Privacy Policy for Eclipse ADHD Blocker**
 
 
 We do not collect, store, or transmit any user data.  
